@@ -1,0 +1,392 @@
+14:07:01.489 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+14:07:01.493 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeVersion=1.4, archetypeGroupId=com.browserstack, archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=YOUR_ACCESS_KEY, groupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=YOUR_USERNAME, BROWSERSTACK_FRAMEWORK=java, BUILD_NAME=browserstack build, version=1.0, PROJECT_NAME=BrowserStack Sample, BROWSERSTACK_SOURCE=java:eclipse:v1.0.8]
+14:07:01.506 [Worker-49: Launching mavenrun-04fc08f1-aa2b-4238-93fa-91a74f9120d0] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:07:30.307 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:07:30.307 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:07:30.315 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/CrossBrowser
+14:07:30.320 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:07:30.320 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:07:30.328 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/CrossBrowser
+14:07:32.819 [Worker-45: Launching Executing test in C__Users_admin_new eclipse-workspace_CrossBrowser] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:07:38.182 [Worker-45: Launching Executing test in C__Users_admin_new eclipse-workspace_CrossBrowser] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:08:39.426 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:08:39.426 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:08:39.433 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/CrossBrowser
+14:08:39.437 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:08:39.437 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:08:39.443 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/CrossBrowser
+14:08:44.311 [Worker-50: Launching CrossBrowser_testng.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:08:44.312 [Worker-50: Launching CrossBrowser_testng.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+14:08:44.320 [Worker-50: Launching CrossBrowser_testng.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:08:44.324 [Worker-50: Launching CrossBrowser_testng.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+14:09:25.358 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:09:25.358 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:09:25.367 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/CrossBrowser
+14:09:25.371 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:09:25.371 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:09:25.380 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/CrossBrowser
+14:09:26.291 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:09:26.291 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:09:26.315 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/CrossBrowser
+14:09:26.327 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:09:26.327 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:09:26.351 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/CrossBrowser
+14:10:02.183 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+14:10:02.187 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeVersion=1.4, archetypeGroupId=com.browserstack, archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=PqDpxEfDSSFyxdbsJjo6, groupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=vaibhav233, BROWSERSTACK_FRAMEWORK=java, BUILD_NAME=browserstack-build-1, version=1.0, PROJECT_NAME=BrowserStack Sample, BROWSERSTACK_SOURCE=java:eclipse:v1.0.8]
+14:10:02.195 [Worker-49: Launching mavenrun-87c54a50-0f3a-4cf2-8131-6f87e5cfc0d2] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:10:24.563 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:10:24.563 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:10:24.573 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/CrossBrowser
+14:10:24.579 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:10:24.579 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:10:24.589 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/CrossBrowser
+14:10:27.720 [Worker-48: Launching Executing test in C__Users_admin_new eclipse-workspace_CrossBrowser] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:10:35.648 [Worker-48: Launching Executing test in C__Users_admin_new eclipse-workspace_CrossBrowser] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:12:33.542 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:12:33.542 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:12:33.550 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/CrossBrowser
+14:12:33.554 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:12:33.554 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:12:33.561 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/CrossBrowser
+14:12:35.451 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:12:35.452 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:12:35.461 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/CrossBrowser
+14:12:35.466 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:12:35.466 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:12:35.475 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/CrossBrowser
+14:12:41.652 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:12:41.652 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:12:42.727 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/CrossBrowser
+14:12:42.739 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:12:42.739 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:12:42.762 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/CrossBrowser
+14:12:45.966 [Worker-52: Launching Executing test in C__Users_admin_new eclipse-workspace_CrossBrowser] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:14:58.253 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:14:58.254 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:14:58.261 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/CrossBrowser
+14:14:58.265 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:14:58.265 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:14:58.273 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/CrossBrowser
+14:15:01.134 [Worker-48: Launching Executing test in C__Users_admin_new eclipse-workspace_CrossBrowser] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:18:22.103 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:18:22.103 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:18:22.113 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/CrossBrowser
+14:18:22.117 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:18:22.117 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:18:22.126 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/CrossBrowser
+14:18:25.206 [Worker-54: Launching Executing test in C__Users_admin_new eclipse-workspace_CrossBrowser] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:21:26.894 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:21:26.897 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false null
+14:21:26.901 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:21:26.905 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false null
+14:24:32.821 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:24:32.821 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:24:32.828 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/CrossBrowser
+14:24:32.832 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:24:32.832 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:24:32.839 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/CrossBrowser
+14:24:36.255 [Worker-60: Launching Executing test in C__Users_admin_new eclipse-workspace_CrossBrowser] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:25:52.924 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:25:52.924 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:25:52.931 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/CrossBrowser
+14:25:52.934 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:25:52.934 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:25:52.941 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/CrossBrowser
+14:25:55.661 [Worker-62: Launching Executing test in C__Users_admin_new eclipse-workspace_CrossBrowser] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+18:10:43.929 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+18:10:43.931 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:10:43.937 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/CrossBrowser
+18:10:43.941 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+18:10:43.941 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:10:43.950 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/CrossBrowser
+18:10:48.613 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+18:10:48.615 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:10:48.624 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Testng Tutorial
+18:10:48.627 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+18:10:48.627 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:10:48.635 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Testng Tutorial
+14:40:30.648 [Worker-213: Launching mavenrun-29a62ccb-3125-4c3d-98fe-cedb6842d4b5] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:43:09.933 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:43:09.934 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:43:09.943 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/MavenTest
+14:43:09.948 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:43:09.948 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:43:09.958 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/MavenTest
+14:43:23.399 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:43:23.399 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:43:23.414 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/MavenTest
+14:43:23.420 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:43:23.421 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:43:23.433 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/MavenTest
+14:43:35.416 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:43:35.416 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:43:35.423 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/MavenTest
+14:43:35.426 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:43:35.426 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:43:35.433 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/MavenTest
+14:43:57.607 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:43:57.607 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:43:57.614 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/MavenTest
+14:43:57.618 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:43:57.618 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:43:57.625 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/MavenTest
+15:06:57.261 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:06:57.261 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:06:57.272 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/MavenTest
+15:06:57.277 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:06:57.277 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:06:57.286 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/MavenTest
+15:21:48.454 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:21:48.454 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:21:48.475 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/MavenTest
+15:21:48.493 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:21:48.493 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:21:48.515 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/MavenTest
+15:33:39.177 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:33:39.177 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:33:39.211 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/MavenTest
+15:33:39.225 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:33:39.226 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:33:39.249 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/MavenTest
+18:02:17.956 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+18:02:17.957 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:02:17.964 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/CoreJavaPractise
+18:02:17.967 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+18:02:17.967 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:02:17.974 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/CoreJavaPractise
+18:02:36.008 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+18:02:36.008 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:02:36.031 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/CoreJavaPractise
+18:02:36.035 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+18:02:36.035 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:02:36.043 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/CoreJavaPractise
+18:03:10.692 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+18:03:10.692 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:03:10.699 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/CoreJavaPractise
+18:03:10.703 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+18:03:10.703 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:03:10.711 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/CoreJavaPractise
+18:07:21.914 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+18:07:21.915 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:07:21.922 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/SeleniumGrid
+18:07:21.926 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+18:07:21.926 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:07:21.933 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/SeleniumGrid
+18:07:55.089 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+18:07:55.089 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:07:55.096 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/SeleniumGrid
+18:07:55.099 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+18:07:55.099 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:07:55.105 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/SeleniumGrid
+18:09:33.178 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+18:09:33.178 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:09:33.185 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/SeleniumGrid
+18:09:33.189 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+18:09:33.189 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:09:33.195 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/SeleniumGrid
+18:09:50.441 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+18:09:50.441 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:09:50.449 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/SeleniumGrid
+18:09:50.453 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+18:09:50.453 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:09:50.460 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/SeleniumGrid
+18:11:58.197 [Worker-270: Launching mavenrun-52477d81-8c30-419c-b070-a6ac3c4fddc3] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+18:12:18.765 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+18:12:18.766 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:12:18.772 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/SeleniumGrid
+18:12:18.776 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+18:12:18.776 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:12:18.783 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/SeleniumGrid
+18:12:23.115 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+18:12:23.115 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:12:23.123 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/CoreJavaPractise
+18:12:23.127 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+18:12:23.127 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:12:23.135 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/CoreJavaPractise
+18:12:59.111 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+18:12:59.111 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:12:59.118 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/CoreJavaPractise
+18:12:59.122 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+18:12:59.122 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:12:59.128 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/CoreJavaPractise
+18:13:04.834 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+18:13:04.834 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:13:04.842 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/CoreJavaPractise
+18:13:04.845 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+18:13:04.845 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:13:04.850 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/CoreJavaPractise
+18:15:26.806 [Worker-273: Launching mavenrun-81f52a94-6a96-4b65-ba70-466e5e6f4c87] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+18:16:05.578 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+18:16:05.578 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:16:05.586 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/LatestCoreJavaPractise
+18:16:05.590 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+18:16:05.590 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:16:05.598 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/LatestCoreJavaPractise
+18:16:20.075 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+18:16:20.076 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:16:20.083 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/LatestCoreJavaPractise
+18:16:20.087 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+18:16:20.087 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:16:20.093 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/LatestCoreJavaPractise
+18:17:12.480 [Worker-268: Launching WhileLoopDemo] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+18:17:12.481 [Worker-268: Launching WhileLoopDemo] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+18:35:55.205 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+18:35:55.205 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:35:55.213 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/LatestCoreJavaPractise
+18:35:55.217 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+18:35:55.217 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:35:55.225 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/LatestCoreJavaPractise
+18:35:58.548 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+18:35:58.548 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:35:58.556 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/LatestCoreJavaPractise
+18:35:58.559 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+18:35:58.559 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:35:58.565 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/LatestCoreJavaPractise
+18:38:04.706 [Worker-275: Launching DoWhileDemo] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+18:38:04.707 [Worker-275: Launching DoWhileDemo] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+11:08:18.339 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:08:18.339 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:08:18.346 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/LatestCoreJavaPractise
+11:08:18.350 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:08:18.350 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:08:18.357 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/LatestCoreJavaPractise
+11:08:21.309 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:08:21.309 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:08:21.317 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/LatestCoreJavaPractise
+11:08:21.321 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:08:21.321 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:08:21.329 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/LatestCoreJavaPractise
+11:20:46.818 [Worker-295: Launching NestedLoops] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:20:46.819 [Worker-295: Launching NestedLoops] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+11:21:07.910 [Worker-295: Launching NestedLoops] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:21:07.911 [Worker-295: Launching NestedLoops] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+11:33:30.926 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:33:30.927 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:33:30.934 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/LatestCoreJavaPractise
+11:33:30.938 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:33:30.938 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:33:30.946 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/LatestCoreJavaPractise
+11:33:35.348 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:33:35.348 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:33:35.356 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/LatestCoreJavaPractise
+11:33:35.360 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:33:35.360 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:33:35.367 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/LatestCoreJavaPractise
+11:38:17.741 [Worker-309: Launching NestedLoopsPractice] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:38:17.742 [Worker-309: Launching NestedLoopsPractice] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+11:38:33.786 [Worker-309: Launching NestedLoopsPractice] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:38:33.788 [Worker-309: Launching NestedLoopsPractice] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+11:38:59.575 [Worker-308: Launching NestedLoops] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:38:59.578 [Worker-308: Launching NestedLoops] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+11:39:17.726 [Worker-310: Launching NestedLoops] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:39:17.728 [Worker-310: Launching NestedLoops] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+11:39:58.415 [Worker-310: Launching NestedLoopsPractice] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:39:58.417 [Worker-310: Launching NestedLoopsPractice] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+11:41:04.002 [Worker-310: Launching NestedLoopsPractice] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:41:04.003 [Worker-310: Launching NestedLoopsPractice] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+11:41:18.221 [Worker-308: Launching NestedLoopsPractice] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:41:18.224 [Worker-308: Launching NestedLoopsPractice] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+11:41:46.907 [Worker-307: Launching NestedLoopsPractice] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:41:46.908 [Worker-307: Launching NestedLoopsPractice] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+11:42:22.058 [Worker-309: Launching NestedLoopsPractice] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:42:22.059 [Worker-309: Launching NestedLoopsPractice] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+11:42:48.220 [Worker-308: Launching NestedLoopsPractice] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:42:48.221 [Worker-308: Launching NestedLoopsPractice] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+12:36:08.667 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:36:08.667 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:36:08.674 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/LatestCoreJavaPractise
+12:36:08.677 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:36:08.678 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:36:08.684 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/LatestCoreJavaPractise
+12:36:11.506 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:36:11.506 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:36:11.512 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/LatestCoreJavaPractise
+12:36:11.517 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:36:11.517 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:36:11.524 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/LatestCoreJavaPractise
+12:36:40.716 [Worker-310: Launching NestedLoopsPractice2] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:36:40.718 [Worker-310: Launching NestedLoopsPractice2] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+12:37:27.084 [Worker-310: Launching NestedLoopsPractice2] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:37:27.085 [Worker-310: Launching NestedLoopsPractice2] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+12:38:12.065 [Worker-315: Launching NestedLoopsPractice2] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:38:12.066 [Worker-315: Launching NestedLoopsPractice2] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+12:47:49.918 [Worker-312: Launching NestedLoopsPractice2] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:47:49.919 [Worker-312: Launching NestedLoopsPractice2] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+12:48:15.791 [Worker-317: Launching NestedLoopsPractice2] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:48:15.792 [Worker-317: Launching NestedLoopsPractice2] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+12:52:49.042 [Worker-320: Launching NestedLoopsPractice2] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:52:49.043 [Worker-320: Launching NestedLoopsPractice2] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+12:53:00.016 [Worker-318: Launching NestedLoopsPractice2] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:53:00.023 [Worker-318: Launching NestedLoopsPractice2] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+12:54:17.078 [Worker-321: Launching NestedLoopsPractice2] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:54:17.080 [Worker-321: Launching NestedLoopsPractice2] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+12:54:32.548 [Worker-312: Launching NestedLoopsPractice2] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:54:32.549 [Worker-312: Launching NestedLoopsPractice2] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+12:55:10.503 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:55:10.503 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:55:10.511 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/LatestCoreJavaPractise
+12:55:10.515 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:55:10.515 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:55:10.523 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/LatestCoreJavaPractise
+12:55:12.280 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:55:12.280 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:55:12.287 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/LatestCoreJavaPractise
+12:55:12.290 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:55:12.290 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:55:12.297 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/LatestCoreJavaPractise
+12:56:28.923 [Worker-323: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:56:28.925 [Worker-323: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:09:07.500 [Worker-327: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:09:07.501 [Worker-327: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:09:30.855 [Worker-331: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:09:30.856 [Worker-331: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:09:45.922 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:09:45.922 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:09:45.933 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/LatestCoreJavaPractise
+14:09:45.938 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:09:45.938 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:09:45.949 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/LatestCoreJavaPractise
+14:09:47.755 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:09:47.755 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:09:47.764 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/LatestCoreJavaPractise
+14:09:47.768 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:09:47.768 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:09:47.776 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/LatestCoreJavaPractise
+14:10:06.795 [Worker-327: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:10:06.797 [Worker-327: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:10:36.635 [Worker-332: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:10:36.636 [Worker-332: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:12:13.447 [Worker-327: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:12:13.449 [Worker-327: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:12:29.385 [Worker-332: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:12:29.388 [Worker-332: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:12:42.961 [Worker-331: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:12:42.962 [Worker-331: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:13:33.133 [Worker-330: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:13:33.134 [Worker-330: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:14:47.897 [Worker-333: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:14:47.898 [Worker-333: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:15:34.041 [Worker-327: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:15:34.042 [Worker-327: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:15:51.566 [Worker-333: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:15:51.567 [Worker-333: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:16:36.615 [Worker-329: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:16:36.617 [Worker-329: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:16:53.185 [Worker-329: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:16:53.186 [Worker-329: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:17:00.671 [Worker-333: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:17:00.672 [Worker-333: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:17:11.753 [Worker-327: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:17:11.754 [Worker-327: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:17:47.763 [Worker-332: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:17:47.765 [Worker-332: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:19:04.807 [Worker-327: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:19:04.809 [Worker-327: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:19:29.761 [Worker-333: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:19:29.763 [Worker-333: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:19:49.662 [Worker-327: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:19:49.663 [Worker-327: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:20:17.932 [Worker-330: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:20:17.933 [Worker-330: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:20:52.809 [Worker-327: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:20:52.810 [Worker-327: Launching NestedLoopsPractice3] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}

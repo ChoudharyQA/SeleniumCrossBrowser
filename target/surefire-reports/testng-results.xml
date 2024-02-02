@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-30T14:26:26 IST" name="Suite" finished-at="2024-01-30T14:28:18 IST" duration-ms="112183">
+    <groups>
+    </groups>
+    <test started-at="2024-01-30T14:26:26 IST" name="Test-1" finished-at="2024-01-30T14:26:39 IST" duration-ms="13310">
+      <class name="CrossBrowserTestPackage.CrossBrowserTestDemo">
+        <test-method signature="titleCheck()[pri:0, instance:CrossBrowserTestPackage.CrossBrowserTestDemo@6f8d7714]" started-at="2024-01-30T14:26:26 IST" name="titleCheck" finished-at="2024-01-30T14:26:38 IST" duration-ms="11849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheck -->
+      </class> <!-- CrossBrowserTestPackage.CrossBrowserTestDemo -->
+    </test> <!-- Test-1 -->
+    <test started-at="2024-01-30T14:26:26 IST" name="Test-0" finished-at="2024-01-30T14:26:41 IST" duration-ms="15126">
+      <class name="CrossBrowserTestPackage.CrossBrowserTestDemo">
+        <test-method signature="titleCheck()[pri:0, instance:CrossBrowserTestPackage.CrossBrowserTestDemo@1144a55a]" started-at="2024-01-30T14:26:26 IST" name="titleCheck" finished-at="2024-01-30T14:26:40 IST" duration-ms="13630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheck -->
+      </class> <!-- CrossBrowserTestPackage.CrossBrowserTestDemo -->
+    </test> <!-- Test-0 -->
+    <test started-at="2024-01-30T14:26:26 IST" name="Test-2" finished-at="2024-01-30T14:26:43 IST" duration-ms="16774">
+      <class name="CrossBrowserTestPackage.CrossBrowserTestDemo">
+        <test-method signature="titleCheck()[pri:0, instance:CrossBrowserTestPackage.CrossBrowserTestDemo@4d6f623d]" started-at="2024-01-30T14:26:26 IST" name="titleCheck" finished-at="2024-01-30T14:26:43 IST" duration-ms="16549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheck -->
+      </class> <!-- CrossBrowserTestPackage.CrossBrowserTestDemo -->
+    </test> <!-- Test-2 -->
+    <test started-at="2024-01-30T14:26:42 IST" name="TestGoogle-0" finished-at="2024-01-30T14:26:55 IST" duration-ms="13795">
+      <class name="CrossBrowserTestPackage.CrossBrowserTestDemo2">
+        <test-method signature="titleCheckGoogle()[pri:0, instance:CrossBrowserTestPackage.CrossBrowserTestDemo2@601cbd8c]" started-at="2024-01-30T14:26:42 IST" name="titleCheckGoogle" finished-at="2024-01-30T14:26:54 IST" duration-ms="12322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheckGoogle -->
+      </class> <!-- CrossBrowserTestPackage.CrossBrowserTestDemo2 -->
+    </test> <!-- TestGoogle-0 -->
+    <test started-at="2024-01-30T14:26:45 IST" name="TestGoogle-2" finished-at="2024-01-30T14:27:08 IST" duration-ms="22974">
+      <class name="CrossBrowserTestPackage.CrossBrowserTestDemo2">
+        <test-method signature="titleCheckGoogle()[pri:0, instance:CrossBrowserTestPackage.CrossBrowserTestDemo2@5942ee04]" started-at="2024-01-30T14:26:45 IST" name="titleCheckGoogle" finished-at="2024-01-30T14:27:08 IST" duration-ms="22762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheckGoogle -->
+      </class> <!-- CrossBrowserTestPackage.CrossBrowserTestDemo2 -->
+    </test> <!-- TestGoogle-2 -->
+    <test started-at="2024-01-30T14:26:44 IST" name="TestGoogle-1" finished-at="2024-01-30T14:28:18 IST" duration-ms="94619">
+      <class name="CrossBrowserTestPackage.CrossBrowserTestDemo2">
+        <test-method signature="titleCheckGoogle()[pri:0, instance:CrossBrowserTestPackage.CrossBrowserTestDemo2@d0ec63]" started-at="2024-01-30T14:26:44 IST" name="titleCheckGoogle" finished-at="2024-01-30T14:28:17 IST" duration-ms="93194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheckGoogle -->
+      </class> <!-- CrossBrowserTestPackage.CrossBrowserTestDemo2 -->
+    </test> <!-- TestGoogle-1 -->
+  </suite> <!-- Suite -->
+</testng-results>
